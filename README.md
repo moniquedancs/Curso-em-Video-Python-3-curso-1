@@ -1,4 +1,4 @@
-# Curso Em Vídeo - Python 3 -Curso 1
+# Curso Em Vídeo - Python 3 - Curso 1
 Exercícios realizados ao longo do curso de Python 3, curso 1, do Curso em Vídeo. Ressaltando que os exercícios foram realizados antes de verificar a resolução, como incentivado pelo Prof. Gustavo Guanabara.
 Esse curso já foi finalizado antes que a minha conta do GitHub fosse criada. Portanto, estou revisando os exercícios e subindo aos poucos. 
 Ao todo, foram 35 exercícios. 
