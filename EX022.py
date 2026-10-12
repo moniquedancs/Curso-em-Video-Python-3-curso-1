@@ -11,4 +11,3 @@ print("Seu nome, em letras maiúsculas: {}".format(nome.upper())) #letras maiús
 print("Seu nome, em letras minúsculas: {}".format(nome.lower())) #letras minúsculas
 print("Seu nome completo tem um total de {} letras.".format(len(nome)-nome.count(" "))) #total de letras
 print("Seu primeiro nome tem {} letras.".format(nome.find(" "))) #find(" ") devolve a posição em que o espaço está, ou seja, depois do primeiro nome.
-
