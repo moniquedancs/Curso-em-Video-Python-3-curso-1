@@ -1,5 +1,9 @@
 #Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+
+#Entrada do número desejado:
 n=int(input('Digite um número:'))
+
+#Saída da tabuada:
 print('A tabuada de {} é:'.format(n))
 print('-'*11)
 print('1 x {} = {}'.format(n,(n*1)))
